@@ -1,10 +1,10 @@
 
 /**
-     // 1. Tạo một REST api server sử dụng json-server
-    // 2. Đọc documentation của json-server và axios, 
-    tìm hiểu các method GET, POST, PUT, PATCH, DELETE
-    // 3. Làm các ví dụ sử dụng axios để gửi các request lên json-server để tạo object mới,
-    update 1 object với dữ liệu mới, xoá 1 object
+     // 1. Create a REST api server used json-server
+    // 2. Read documentation of json-server and axios, 
+    // 2.1 Learn more about  GET, POST, PUT, PATCH, DELETE
+    // 3. Do example with axios to send requests to fjson-server to create new object,
+       3.2 update a object with new data , delete a object
  */
     // 1. REST API server 
 const url = 'http://localhost:3000/users';
